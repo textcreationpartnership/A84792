@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfax's letter or summons sent to Sir John Berkley for the surrender of the city of Exceter. With his answer, and the transaction of the treaty, and the names of the commissioners on both sides. As also the summons sent into Newark, and their answer. With the routing of 900. Oxford horse at Faringdon: 500 horse, prisoners, and arms taken by the Abbington forces. Also other news from Oxford, and taking of Portland Castle by Captaine Batten. Printed by the severall originall papers, and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84792</idno>
+            <idno type="STC">Wing F185</idno>
+            <idno type="STC">Thomason E330_20</idno>
+            <idno type="STC">ESTC R200725</idno>
+            <idno type="EEBO-CITATION">99861390</idno>
+            <idno type="PROQUEST">99861390</idno>
+            <idno type="VID">113523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113523)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E330[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfax's letter or summons sent to Sir John Berkley for the surrender of the city of Exceter. With his answer, and the transaction of the treaty, and the names of the commissioners on both sides. As also the summons sent into Newark, and their answer. With the routing of 900. Oxford horse at Faringdon: 500 horse, prisoners, and arms taken by the Abbington forces. Also other news from Oxford, and taking of Portland Castle by Captaine Batten. Printed by the severall originall papers, and published according to order of Parliament.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Berkeley, John, Sir, d. 1678.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Matthew Walbancke,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>6 April 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Exeter (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113523:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 131 -->
+            <p>Sir Thomas Fairfaxes Letter or Summons ſent to Sir JOHN BERKLEY For the ſurrender of the City of Exeter.</p>
+            <p>With his Anſwer, and the tranſaction of the Treaty, and the Names of the Commiſſioners on both ſides.</p>
+            <p>As alſo The Summons ſent into NEWARK, and their Anſwer.</p>
+            <p>With the routing of 900. Oxford Horſe at Faringdon: 500 Horſe, priſoners, and Arms taken by the Abbington Forces.</p>
+            <p>Alſo other news from <hi>Oxford,</hi> and taking of Portland Caſtle by Captaine BATTEN.</p>
+            <p>Printed by the ſeverall originall Papers, and publiſhed according to Order of Parliament.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>Matthew Walbancke</hi> 6 April 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113523:2"/>
+            <!-- PDF PAGE 132 -->
+            <pb facs="tcp:113523:2"/>
+            <!-- PDF PAGE 132 -->
+            <head>The Copy of a Letter from Sir Thomas Fairfaxes Quarters.</head>
+            <opener>
+               <salute>Sir;</salute>
+            </opener>
+            <p>BEfore our departure from Oakhampton the Lords day, <hi>March</hi> 29. the Generall (at the requeſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Inhabitants) gave order for the ſlighting of ſome Barricadoes, which the Enemy had made about the Town, to prevent all inconveniences hereafter; That day the Army marched from Oakhampton to Cre<g ref="char:EOLhyphen"/>diton; and had a Rendezvouze neere Bowbridge.</p>
+            <p>Munday <hi>March</hi> 30. we ſtayed at <hi>Crediton,</hi> had intelli<g ref="char:EOLhyphen"/>gence of the Enemies reſolutions in <hi>Barnſtable,</hi> to quit the Towne and betake themſelves to the great Fort and Ca<g ref="char:EOLhyphen"/>ſtle, which probably before this time is effected: And the ſpeech is, That upon the coming of Colonell <hi>Blake</hi> with his Regiment from <hi>Dunſter,</hi> about two daies ſince, they left the Towne, onely ſome few for a Guard, which our men beate off, killed ſeven, with the loſſe of foure; the Skirmiſh is certain, but whether our men are in poſſeſſion I cannot yet aſſure you, we having as yet received no Let<g ref="char:EOLhyphen"/>ters thereof. It is generally believed that Sir <hi>Allen Apſley</hi> is willing to ſurrender the Towne, Fort and Caſtle, but that his deſperate Brother ſweares he will cut him to peeces if he offer to ſurrender the Caſtle.</p>
+            <p>Tueſday, <hi>March</hi> 31. The Generall marched to Crediton, in the way had a Rendezvouze, neere Newtuſyres, and afterward the Generall, Lieutenant, Generall, with other Field Officers, rode round about the City of Exceter, within Muſket ſhot, and the reſt of the Army, Horſe and Foot, drew up upon an Hill neere the City, in the ſight thereof: The Guards and ſeverall Garriſons round about the City, were drawne forth in a compleat manner, and ſtill as the Generall paſſed by, gave a lowd ſhout and a
+<pb facs="tcp:113523:3"/>
+               <!-- PDF PAGE 133 -->Volley, that ſo the Enemy in the City might take notice thereof; notwithſtanding which, they diſcharged not one Peece of Ordnance at the Generals Company, but one or two from the Caſtle at the Horſe and Foote on the H<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, which makes us believe they have inclination to ſurren<g ref="char:EOLhyphen"/>der, in regard, as they confeſſe themſelves, they have notice of Sir <hi>Iacob Aſhleyes</hi> defeat, and ſo their hopes of reliefe are quite fruſtrate. The Generall ſent in the in<g ref="char:EOLhyphen"/>cloſed Summons yeſterday by a Trumpeter, to which we expect an Anſwer this day: The Enemy in the wor<g ref="char:EOLhyphen"/>ning before the Generall came, drew forth 500. Horſe and Foote in a bravadoe, made a flouriſh, but our men drawing towards them, they retreated; ſome of our men paſſing over the River <hi>Ex</hi> in a Boat, wherein was ſome ſtore of Gunpowder, one of them with his lighted Match (unadviſedly) went to fill his Bandaleers, ſet fire to the Powder, blew up himſelfe (who died preſently) and the reſt were miſerably hurt, being about ſeven or eight in all. The laſt night we came to Columb John Houſe; Maſter <hi>
+                  <g ref="char:V">Ʋ</g>ragge</hi> is not yet returned from the Convoy which was to bring the Lord <hi>Hoptons</hi> Forces to Charde. With my reſpects to all our friends, I reſt</p>
+            <closer>
+               <dateline>Columb Iohn, <date>Aprill 1646. in the morning.</date>
+               </dateline>
+               <signed>Yours to command<g ref="char:punc">▪</g> W. C.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>THe Army is yet quartered about Bradmuch, Sitonton, Columpton, and the Villages adjacent; ſince the writing hereof, (the Meſſen<g ref="char:EOLhyphen"/>ger yet ſtaying) Sir</hi> John Berkleyes <hi>Trumpeter came out of Exceter with an Anſwer to yeſterdaies Summons, expreſſing his willingneſſe to a Treaty, deſiring it might begin Friday next, and ſent the names of terme Gentlemen he deſired to be Commiſſioners, (whoſe names are incloſed) to which his Excellency returned this incloſed Anſwer, with the names of his Commiſſioners.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letters">
+            <pb facs="tcp:113523:3"/>
+            <!-- PDF PAGE 133 -->
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Copy of a Letter or Summons ſent to the Governour of Exceter by Sir <hi>Thomas Fairfax.</hi>
+                  </head>
+                  <opener>
+                     <salute>Sir;</salute>
+                  </opener>
+                  <p>BEing returned with my Army from the Weſt, where God in his wiſdome ſaw it good to beſtow a drie and bloodleſſe Victory upon me, to the great peace and quiet of theſe parts; and conceiving it my duty likewiſe to endeavour the good of this County, which by the occaſion of your Garriſon is ne<g ref="char:EOLhyphen"/>ceſſarily obſtructed, I thought fit once more to ſend you a Sum<g ref="char:EOLhyphen"/>mons to deliver up to me the City of Exceter, with the Caſtle, Forts, Armes, Ammunition and Magazine, belonging to the the ſame; beleeving that by this time you are ſatisfied of the re<g ref="char:EOLhyphen"/>lief you expected from the Princes Army, and may equally be of all reliefe to come from any other place, if your Intelligence and knowledge were the ſame with ours: There is nothing more induceth me hereunto then an unfaigned zeal toward any further bloodſhed, and as much as in me lies, to preſerve that City which hath already ſuffered deeply in theſe unnaturall di<g ref="char:EOLhyphen"/>ſtractions, from further or greater miſery. Though I ſhall not boaſt of my numbers or ſtrength, yet I muſt needs tell you, that I doubt not but the ſame power which hath formerly made dif<g ref="char:EOLhyphen"/>ficult things eaſie, will anſwer this, and will acquit me from be<g ref="char:EOLhyphen"/>ing accounted the occaſion of thoſe inconveniencies and miſe<g ref="char:EOLhyphen"/>ries which neceſſarily will enſue upon your refuſall. Sir, I ſhall expect your ſpeedy and poſitive Anſwer herein, and reſt</p>
+                  <closer>
+                     <dateline>
+                        <date>March 31. 1646.</date>
+                     </dateline>
+                     <signed>Your Servant <hi>T. Fairfax.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:113523:4"/>
+                  <!-- PDF PAGE 134 -->
+                  <head>Sir <hi>Iohn Berkeleys</hi> Anſwer.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>upon your Summons I called this day a Coun<g ref="char:EOLhyphen"/>ſell of War, where after ſome debate it was determi<g ref="char:EOLhyphen"/>ned to treat with you, or with whom you ſhould appoint, and to conclude upon juſt and honourable termes; and to that purpoſe I deſire a ſafe Conduct for the perſons to repaire to your head Quarters with their ſervants on Friday morning, and to returne at their pleaſure. I re<g ref="char:EOLhyphen"/>maine. Your ſervant.</p>
+                  <closer>
+                     <dateline>
+                        <date>April 1. 1646.</date>
+                     </dateline>
+                     <signed>Io. Berkley.</signed>
+                  </closer>
+                  <argument>
+                     <p>
+                        <list>
+                           <head>Thoſe firſt named by Sir <hi>Iohn Berkely</hi> were:</head>
+                           <item>Sir Hen. Berkely.</item>
+                           <item>Mr. William Aſhburnham.</item>
+                           <item>Sir George Cary.</item>
+                           <item>Mr. Iohn Were.</item>
+                           <item>Col. Godilphin.</item>
+                           <item>Cap. Fitz-Garret.</item>
+                           <item>Mr. Robert Walker.</item>
+                           <item>Mr. Thomas Knight.</item>
+                           <item>Mr. Tho. Kendall.</item>
+                           <item>Mr. Tho. Forde.</item>
+                        </list>
+                     </p>
+                  </argument>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Generals Reply to Sir <hi>Iohn Berkely.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I have received yours, whereby I underſtand that in purſuance of my demand in my Summons you have determined to treat with me by Commiſſio<g ref="char:EOLhyphen"/>ners, and in order to that have ſent a Liſt of ten Gentle<g ref="char:EOLhyphen"/>men which you deſire for Commiſſioners on your be<g ref="char:EOLhyphen"/>halfe, of which although there is none in particular that I take exceptions unto; yet becauſe I deſire to carry on the buſineſſe with clearneſſe and expedition, which by ſo great a number cannot ſo well be effected, I thought fit to propound unto you the number of ſixe, that being as many as conveniently can be uſed in a buſineſſe of this
+<pb n="5" facs="tcp:113523:4"/>
+                     <!-- PDF PAGE 134 -->nature; upon your conſent hereunto, and anſwer, I ſhall according to your deſire ſend you a ſafe Conduct for a proportionable number of Commiſſioners, and in the meane time ſhall reſt, your Servant</p>
+                  <closer>
+                     <dateline>
+                        <date>April 1. 1646.</date>
+                     </dateline>
+                     <signed>T. Fairfax.</signed>
+                  </closer>
+                  <postscript>
+                     <p>I agree the time to begin on Friday next according to your deſire, the place Poultimore houſe: I have ſent a Liſt of the Commiſſioners on my part.</p>
+                     <list>
+                        <head>The names of the Commiſſioners.</head>
+                        <item>Lieut. Generall Hamond.</item>
+                        <item>Col. Sir Fardreſſe Valleri.</item>
+                        <item>Col. Lambert.</item>
+                        <item>Col. Harley.</item>
+                        <item>Col. Fry.</item>
+                        <item>Comiſſary Stane.</item>
+                     </list>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>this night the Generall hath written to Com<g ref="char:EOLhyphen"/>miſſary Gen. <hi>Ireton</hi> (who is by this time with the Convoy about Chard) that in regard (ſince the defeat given to Aſhly) thoſe broken forces doe in ſmall parcels ſteale into Oxford, which probably may not only inable that Garriſon to range abroad in the county, but in<g ref="char:EOLhyphen"/>danger our Horſe, and diſturbe the Siege of Banbury, he ſhould therefore advance with three of thoſe Regiments of Horſe, and the Dragoones now with him towards Oxford, and that he take care for the prevention of the eſcape of any of the disbanded Officers or Souldiers to the Enemy, which it is probable they will endeavour to doe. It is likewiſe referred to the Commiſſary Gene<g ref="char:EOLhyphen"/>ralls conſideration, if he thinke fit to make uſe of Col. <hi>Cookes</hi> Horſe, for the more full accompliſhment of thoſe ends, in reſpect he will have with him Major
+<pb n="6" facs="tcp:113523:5"/>
+                     <!-- PDF PAGE 135 -->Generall <hi>Maſſies</hi> Regiment, his own Colonel <hi>Fitz Ianiſes,</hi> and Sir <hi>Francis Drakes</hi> Regiment, which may be ſpared, and to deſire him to ſend the Liev. Gen. Regiment into theſe parts, in regard his Major is in Cornwall, and if he thinke fit to have Sir <hi>Robert Pyes</hi> in their roome; that and the Dragoones remaining here ſhall be ſent unto him, and the Generall himſelfe with a party of Foot will ere long march that way.</p>
+                  <closer>
+                     <dateline>
+                        <date>April the 1. 1646. at night.</date>
+                     </dateline>
+                     <signed>Your Servant. <hi>W. C.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter from the Leaguer before Newark.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I have ſent you here encloſed the ſeveral Co<g ref="char:EOLhyphen"/>pies of the Summons to Newark, and <hi>Bellaſſis</hi> anſwer; wherein you may ſee how he complements with us, but we ſhall not doe ſo with them if they be not of more flexible temper, which we doubt not but to mould them in; we gaine upon them every day, and doubt not but very ſuddenly to be Maſters of the place, either by having it ſurrendered, or forced; the former we moſt deſire, but doubt not to effect the latter if conſtrained; for which we make all preparations, and have gained much forwardneſſe in the workes: by the next I doubt not, but you will heare of ſomething done, active or paſſive.</p>
+                  <closer>
+                     <dateline>Balderton <date>the 1. of April, 1646.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="summons">
+            <pb n="7" facs="tcp:113523:5"/>
+            <!-- PDF PAGE 135 -->
+            <head>The Summons ſent into NEWARKE.</head>
+            <p>WEE, the Committee of both Kingdomes, being ſent and Authorized, to uſe our beſt endeavours for the Towne and Garriſon of <hi>Newarke</hi> doe hereby, in the name of both Houſes of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and for the uſe of the King and Parliament, de<g ref="char:EOLhyphen"/>mand of you, that you forthwith Surrender the ſame in<g ref="char:EOLhyphen"/>to their Hands. It is the pious care of the Parliament to preuent the effuſion of Chriſtian blood, the waſting of the Countries, and the deſtruction of Towns; wee ſhal eſteeme our ſelves happy in being inſtruments to avert thoſe miſeries; and ſhall therefore grant to you, the Gentlemen, with you, and the Towne; honourable and faire conditions, which if you ſhall now neglect, and will let nothing but experimentall ſufferings declare un<g ref="char:EOLhyphen"/>to you your unavoydable ruine; you are to give an ac<g ref="char:EOLhyphen"/>compt to God, to this preſent age and to poſteritie, for all the blood that ſhall from henceforth be ſhed, for waſting your Native and Neighbouring-Counties, and deſtruction of ſo conſiderable a place. You may not, nor can any (in reaſon) expect, and moſt aſſuredly, on the faith of honeſt men, you ſhall not hereafter obſerve from us ſuch tearmes as wee are now willing to afford you. Wee ſent no Summons untill you, &amp; all with you, might ſee wee were able by force to obtaine what wee may rather defend by Treatie. The Parliament have at preſent 16000 horſe and foot before your Town, Soul<g ref="char:EOLhyphen"/>diers of experience united, and in health and courage:
+<pb n="8" facs="tcp:113523:6"/>
+               <!-- PDF PAGE 136 -->This is no wayes mentioned, as if wee truſted in the Arme of fleſh; (God the Lord of hoſts hath manifeſted that wee fight his battells) but to ſhew you the vaſt ex<g ref="char:EOLhyphen"/>pence which will be occaſioned by the continuance of this Siege, for which your eſtates muſt anſwer, and that your holding out may no further tempt the Almightie. And though you ſhould not regard, your owne ruine, though ſome others ſhould be of that your opinion; ſhall yet that wealthy Town be ſucked, and others periſh with you that ſee their own miſery, and would avoyd it? A prudent man, a Souldier cannot live or dye, in reputa<g ref="char:EOLhyphen"/>tion or peace of ſpirit, to maintaine a place not ſo long tenable, as till it can be relieved, of which you cannot have the leaſt hopes. Flatter not your ſelves, reliefe is not to be had; <hi>Cheſter</hi> was neerer ſuccours, and conſiderable Armies for them in the Weſt, and in <hi>Wales,</hi> now ſcarce ſeen what remaines of either: was not that ſtrong Ci<g ref="char:EOLhyphen"/>tie of moſt great importance? were they not very often promiſed? did not all aſſurance to be relived come to them? they had none, that place is ſurrendred. Your wealth, if you rightly conſider in what ſtate you are, promoves your ſudden &amp; certain deſtructions. You are prepared in ſome things for defence; you know (and we know) you are not for ſome other. Conſider theſe things ſeriouſly, and you cannot out through them, ſee your ruine to be inevitable if you do not avoyd it, by at<g ref="char:EOLhyphen"/>tempting what is now offered. Wee will expect your anſwer on Monday next, by ſeven of the clocke in the forenoon at <hi>Balderton.</hi>
+            </p>
+            <closer>
+               <dateline>Balderton, <date>2<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> March, 1646.</date>
+               </dateline>
+For the Governour of the Town and Garriſon of <hi>New<g ref="char:EOLhyphen"/>ark</hi> the Gentlemen there, and the Major, Aldermen, and Burgeſſes of that Town.
+<signed>Signed in the name, and by the Warrant of the Committee of both Kingdomes. Rutland Lothdam.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:113523:6"/>
+            <!-- PDF PAGE 136 -->
+            <head>A Copie of the Governour of <hi>Newarks</hi> Anſwer.</head>
+            <p>HAving received a Paper, ſubſcribed by the Com<g ref="char:EOLhyphen"/>mittee of both Kingdomes, directed as to a Com<g ref="char:EOLhyphen"/>mittee-Governour, by putting the Gentlemen and Corporation in equall ballance with me (though the joying us together was the intention to divide us) I ſhall in anſwer thereof, deſire you to reflect upon the Kings Letter of the 23 of <hi>March,</hi> ſent to the two Hou<g ref="char:EOLhyphen"/>ſes of Parliament, which I received from your owne Quarters, wherein a full compliance with all their de<g ref="char:EOLhyphen"/>ſires, upon the moſt gracious conditions that ever Prince propounded: he offers to disband his Forces, and to diſmantle his Garriſons; to what end then doe you demand that of the ſtewards, whereof the Lord &amp; Maſter maks a volentary tender? I conceive it my du<g ref="char:EOLhyphen"/>ty to trace his commands, not to out-ſtrip rhem; ſo that though honour and conſcience would permit the delivery, yet cruelty would retard it, leaſt his Majeſties act of Grace be fruſtrated by my over-haſty ſpeed. I ſhall waite the arguments wherewith you indeavour to winne my conſent, I am neither to be ſtroked into A<g ref="char:EOLhyphen"/>poſtacy, by the mention of faire Conditions in a un<g ref="char:EOLhyphen"/>juſtly motion, nor to be frighted into diſhonour by your ruing diviſion upon the fate of <hi>Cheſter,</hi> for as I doe not meaſure my allegiance by my intreſt to the former, ſo I deſerv'd that poverty of ſpirit, as by reſemblance of <hi>Cheſter</hi> to ſuffer by example, I can be loyall without that Copie, and I hope this Garriſon ſhall never be the tranſcript of their calamity, you may doe well to uſe
+<pb n="10" facs="tcp:113523:7"/>
+               <!-- PDF PAGE 137 -->your fortune modeſtly, and think not that God Al<g ref="char:EOLhyphen"/>mighty doth applaud your Cauſe by reaſon of your victories, and that he hath not a bleſſing in ſtore for ours, whereas you urge the expence of the ſiege, and the preſſures of the ſupporting your charge, ſince occaſio<g ref="char:EOLhyphen"/>ned by your ſelves, I am not concerned in it, yet in or<g ref="char:EOLhyphen"/>der to their eaſe, if you will grant a Paſſe to ſome Ge<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tlemen to goe to the King, and returne, I may then know his Majeſties pleaſure, whether according to his Letter he will wind up the buſineſſe in generall, or leave me to ſteere mine owne courſe, then I ſhall know what to determine; otherwiſe, I deſire you to take no<g ref="char:EOLhyphen"/>tice, that when I received my Commiſſion for the go<g ref="char:EOLhyphen"/>vernment of this place, I annexed my ſelfe as a labell to my truſt.</p>
+            <closer>
+               <signed>J. BELASSYSE.</signed>
+               <dateline>Newark, <date>31 March, 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>To the Committe of both Kingdomes.</trailer>
+         </div>
+         <div type="letter">
+            <head>A letter from an Officer at <hi>Abingdon.</hi>
+            </head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>LAſt night wee drew out, and this morning fell into the Ene<g ref="char:EOLhyphen"/>mies Quarters at <hi>Faringdon,</hi> where wee routed the whole Body of the Kings Horſe, and tooke about <hi>300</hi> Horſe and Priſoners, di<g ref="char:EOLhyphen"/>vers Officers, with others that wee tooke on Sunday, and at other times this weeke, and ſome that have come in, will amount to <hi>500</hi> Horſe, Priſoners, and Armes, and the Enemy ſo routed and diſper<g ref="char:EOLhyphen"/>ſed, that of <hi>900</hi> Horſe none dare appeare in ſight, they in <hi>Oxford</hi> are ſo diſtracted hereat, that they know not what to doe; wee heere that <hi>Portland</hi> Caſtle is ſurrendred to Captaine <hi>Battaime,</hi> there were ſome <hi>80</hi> men it, who are gone home, Ordnance, Armes, and Ammunition there were good ſtore: I hope now the Warrs are neere an end, ſo prayes your Servent</p>
+            <closer>
+               <dateline>Abingdon, <date>this <hi>April</hi> the 3. 1646.</date>
+               </dateline>
+               <signed>J. T.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
